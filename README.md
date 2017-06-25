@@ -1,4 +1,4 @@
-# fancy_select_js_iOS_fix
+# Fancy select js iOS fix
 FancySelectJS bugfix for iOS
 
 The perpose of this repository is to fix an important bug of FancySelectJS 
